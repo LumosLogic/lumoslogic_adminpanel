@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "lumoslogic-3770b"
+  },
+  "targets": {
+    "lumoslogic-3770b": {
+      "hosting": {
+        "admin": ["lumoslogic-admin"]
+      }
+    }
+  }
+}
